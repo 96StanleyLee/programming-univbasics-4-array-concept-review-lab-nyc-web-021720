@@ -7,7 +7,7 @@ def find_element_index(array, value_to_find)
       return counter
     end
   end
-return nil 
+return nil
 end
 
 
